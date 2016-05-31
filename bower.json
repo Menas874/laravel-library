@@ -1,0 +1,23 @@
+{
+  "name": "public",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0",
+    "chosen": "~1.5.1",
+    "metisMenu": "~2.4.0",
+    "jquery": "~2.2.0",
+    "jasny-bootstrap": ""
+  }
+}
