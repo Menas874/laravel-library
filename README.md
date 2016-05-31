@@ -6,3 +6,4 @@ LARAVEL LIBRARY (Laravel 5.1)
 4.- Corre "php artisan migrate".
 5.- Corre "php artisan db:seed".
 6.- En la carpeta public/resources se guardaran los archivos por lo que quizá debas utilizar el comando "chmod -R 775" en ese directorio.
+7.- La aplicacion usa DISQUS, solo digo :).
